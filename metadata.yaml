@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/fullstory-session-url-gtm
+versions:
+  - sha: f7acb8ba5a638e32fb79ab320a82176a877c85f2
+    changeNotes: Initial release.

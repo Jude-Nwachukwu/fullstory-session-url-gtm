@@ -3,8 +3,6 @@
 ## Description
 This **Google Tag Manager (GTM) Variable Template** retrieves the **FullStory session recording URL** for the current user's session. The URL can be used for debugging, analytics, or tracking user sessions across different platforms.
 
-## Repository Name
-`fullstory-session-url-gtm`
 
 ## Features
 - Automatically detects and supports different versions of the **FullStory SDK** to retrieve the session recording URL.
